@@ -1,0 +1,10 @@
+Question:
+When the following loop terminates, what will num equal?
+
+int num = 0;
+while(num < 10){  // loop condition
+  num = num + 3;  //loop body
+}
+
+Answer:
+12
