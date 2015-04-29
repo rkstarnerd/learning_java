@@ -1,0 +1,6 @@
+Question:
+What is the value of num after the following code?
+int num = 15 / (1 + 2) % 3;
+
+Answer:
+2
