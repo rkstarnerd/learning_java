@@ -1,0 +1,5 @@
+Question:
+Declare an integer variable age and assign it a value of 22 in one line of code.
+
+Answer:
+int age = 22;
